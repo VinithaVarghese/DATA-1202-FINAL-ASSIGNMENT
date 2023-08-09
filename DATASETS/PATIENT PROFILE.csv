@@ -1,0 +1,501 @@
+ID,General_Health,Checkup,Exercise,Sex,Age_Category,Height_(cm),Weight_(kg),BMI
+1,Poor,Within the past 2 years,No,Female,70-74,150,32.66,14.54
+2,Very Good,Within the past year,No,Female,70-74,165,77.11,28.29
+3,Very Good,Within the past year,Yes,Female,60-64,163,88.45,33.47
+4,Poor,Within the past year,Yes,Male,75-79,180,93.44,28.73
+5,Good,Within the past year,No,Male,80+,191,88.45,24.37
+6,Good,Within the past year,No,Male,60-64,183,154.22,46.11
+7,Fair,Within the past year,Yes,Male,60-64,175,69.85,22.74
+8,Good,Within the past year,Yes,Female,65-69,165,108.86,39.94
+9,Fair,Within the past year,No,Female,65-69,163,72.57,27.46
+10,Fair,Within the past year,No,Female,70-74,163,91.63,34.67
+11,Fair,Within the past year,Yes,Female,75-79,160,74.84,29.23
+12,Fair,Within the past year,No,Male,75-79,175,73.48,23.92
+13,Very Good,Within the past year,No,Female,50-54,168,83.91,29.86
+14,Fair,Within the past year,No,Male,65-69,178,113.4,35.87
+15,Excellent,Within the past 2 years,Yes,Female,70-74,152,52.16,22.46
+16,Fair,Within the past year,No,Female,70-74,163,116.12,43.94
+17,Good,Within the past year,No,Male,80+,183,99.79,29.84
+18,Very Good,Within the past year,Yes,Male,80+,168,81.65,29.05
+19,Fair,Within the past year,Yes,Male,45-49,178,104.33,33
+20,Good,Within the past year,No,Female,70-74,163,79.38,30.04
+21,Very Good,Within the past 2 years,Yes,Female,18-24,157,55.79,22.5
+22,Fair,Within the past year,No,Male,80+,175,81.65,26.58
+23,Very Good,5 or more years ago,Yes,Female,30-34,180,124.74,38.35
+24,Good,Within the past 2 years,No,Female,55-59,163,81.19,30.72
+25,Good,Within the past year,No,Female,80+,160,70.31,27.46
+26,Good,Within the past year,Yes,Female,70-74,160,88.45,34.54
+27,Fair,Within the past year,No,Female,70-74,157,81.65,32.92
+28,Very Good,Within the past year,Yes,Female,65-69,157,74.84,30.18
+29,Excellent,Within the past year,Yes,Male,70-74,191,112.49,31
+30,Fair,Within the past year,No,Male,65-69,180,147.42,45.33
+31,Very Good,Within the past year,No,Female,70-74,160,83.91,32.77
+32,Fair,Within the past year,Yes,Female,65-69,165,84.82,31.12
+33,Fair,Within the past year,Yes,Male,70-74,188,102.06,28.89
+34,Good,Within the past year,Yes,Female,50-54,160,70.31,27.46
+35,Good,Within the past year,Yes,Male,70-74,185,88.45,25.73
+36,Good,Within the past year,Yes,Female,75-79,170,64.41,22.24
+37,Excellent,Within the past 2 years,Yes,Female,60-64,168,60.78,21.63
+38,Good,Within the past year,No,Female,80+,165,70.31,25.79
+39,Good,Within the past year,No,Female,80+,168,77.11,27.44
+40,Good,Within the past year,No,Female,75-79,165,69.85,25.63
+41,Excellent,Within the past year,No,Female,80+,157,61.23,24.69
+42,Good,Within the past year,Yes,Male,70-74,178,88.45,27.98
+43,Good,Within the past year,No,Female,70-74,165,77.11,28.29
+44,Very Good,Within the past year,Yes,Male,55-59,178,88,27.84
+45,Good,Within the past year,No,Female,55-59,163,81.65,30.9
+46,Fair,Within the past 2 years,No,Female,55-59,175,90.72,29.53
+47,Excellent,Within the past year,Yes,Female,75-79,168,49.9,17.75
+48,Fair,Within the past year,Yes,Female,60-64,168,85.28,30.34
+49,Good,Within the past year,No,Female,60-64,163,120.2,45.49
+50,Poor,Within the past year,Yes,Female,65-69,152,69.4,29.88
+51,Fair,Within the past year,No,Female,80+,163,62.14,23.52
+52,Very Good,Within the past year,Yes,Male,70-74,178,88.45,27.98
+53,Good,Within the past year,Yes,Male,65-69,173,104.33,34.97
+54,Good,Within the past year,No,Male,60-64,170,65.77,22.71
+55,Very Good,Within the past 2 years,No,Male,65-69,178,88.45,27.98
+56,Fair,Within the past 2 years,No,Female,80+,152,32.66,14.06
+57,Very Good,Within the past year,Yes,Male,70-74,173,89.81,30.11
+58,Fair,Within the past year,No,Female,65-69,155,66.68,27.78
+59,Good,Within the past 2 years,Yes,Female,75-79,165,72.57,26.63
+60,Excellent,Within the past 5 years,Yes,Female,70-74,155,74.84,31.18
+61,Very Good,Within the past year,Yes,Male,45-49,180,86.18,26.5
+62,Excellent,Within the past year,Yes,Male,45-49,175,72.12,23.48
+63,Excellent,Within the past year,Yes,Female,70-74,163,60.78,23
+64,Good,Within the past year,Yes,Male,18-24,180,81.65,25.1
+65,Good,Within the past year,Yes,Female,50-54,157,61.23,24.69
+66,Fair,Within the past year,No,Female,70-74,165,90.72,33.28
+67,Fair,Within the past year,No,Male,75-79,183,87.54,26.18
+68,Very Good,Within the past year,No,Female,60-64,160,62.6,24.45
+69,Fair,Within the past year,No,Female,65-69,173,75.75,25.39
+70,Poor,Within the past year,No,Female,45-49,152,88.9,38.28
+71,Good,Within the past year,Yes,Female,65-69,175,81.65,26.58
+72,Good,Within the past year,No,Male,60-64,178,92.08,29.13
+73,Good,5 or more years ago,Yes,Female,45-49,170,81.65,28.19
+74,Fair,Within the past 2 years,Yes,Female,55-59,160,72.57,28.34
+75,Good,Within the past year,No,Female,60-64,163,72.57,27.46
+76,Excellent,Within the past 2 years,Yes,Female,55-59,152,56.7,24.41
+77,Good,Within the past year,No,Female,35-39,168,68.04,24.21
+78,Good,Within the past year,No,Female,65-69,173,79.83,26.76
+79,Very Good,Within the past year,No,Male,60-64,170,61.23,21.14
+80,Fair,Within the past year,Yes,Female,55-59,157,63.5,25.61
+81,Excellent,Within the past year,No,Female,65-69,173,86.18,28.89
+82,Good,Within the past year,Yes,Female,60-64,163,58.97,22.31
+83,Very Good,Within the past year,No,Female,80+,163,83.91,31.75
+84,Good,Within the past 2 years,No,Female,65-69,170,89.81,31.01
+85,Fair,Within the past year,Yes,Female,80+,170,74.84,25.84
+86,Fair,Within the past year,Yes,Female,80+,168,90.72,32.28
+87,Very Good,Within the past 2 years,No,Female,75-79,155,84.82,35.33
+88,Fair,Within the past year,No,Female,70-74,160,72.57,28.34
+89,Very Good,Within the past year,Yes,Male,70-74,183,90.72,27.12
+90,Excellent,Within the past 2 years,Yes,Female,35-39,165,61.23,22.46
+91,Excellent,Within the past year,Yes,Female,70-74,163,62.14,23.52
+92,Good,Within the past 5 years,Yes,Female,80+,168,88.45,31.47
+93,Very Good,Within the past year,No,Male,70-74,178,90.72,28.7
+94,Very Good,Within the past year,Yes,Male,75-79,180,114.76,35.29
+95,Very Good,Within the past 2 years,Yes,Female,65-69,160,65.77,25.69
+96,Fair,Within the past year,No,Male,70-74,183,88,26.31
+97,Good,Within the past year,No,Female,75-79,157,81.65,32.92
+98,Fair,Within the past 2 years,Yes,Female,80+,155,45.36,18.89
+99,Very Good,Within the past year,Yes,Female,80+,160,63.5,24.8
+100,Very Good,Within the past year,Yes,Female,35-39,157,58.97,23.78
+101,Very Good,Within the past year,Yes,Female,35-39,163,73.94,27.98
+102,Excellent,Within the past year,Yes,Female,60-64,160,90.72,35.43
+103,Good,Within the past year,No,Female,60-64,155,54.43,22.67
+104,Excellent,Within the past year,Yes,Male,60-64,168,90.72,32.28
+105,Good,Within the past year,No,Male,65-69,175,102.06,33.23
+106,Very Good,Within the past year,Yes,Female,55-59,160,81.65,31.89
+107,Good,Within the past year,Yes,Female,70-74,163,73.48,27.81
+108,Poor,Within the past year,No,Female,75-79,160,72.57,28.34
+109,Fair,Within the past year,Yes,Male,75-79,193,125.19,33.6
+110,Good,Within the past year,Yes,Female,55-59,160,77.56,30.29
+111,Good,Within the past year,Yes,Male,65-69,180,96.16,29.57
+112,Excellent,Within the past year,Yes,Female,70-74,170,77.11,26.63
+113,Good,Within the past year,No,Female,70-74,163,79.83,30.21
+114,Good,Within the past year,Yes,Female,50-54,168,95.25,33.89
+115,Very Good,Within the past year,No,Female,65-69,168,115.67,41.16
+116,Good,Within the past year,Yes,Female,70-74,163,72.57,27.46
+117,Very Good,Within the past year,Yes,Female,60-64,170,83.91,28.97
+118,Good,Within the past year,Yes,Female,55-59,163,56.7,21.46
+119,Good,Within the past year,No,Female,60-64,165,88,32.28
+120,Excellent,Within the past year,Yes,Male,75-79,173,82.55,27.67
+121,Very Good,Within the past year,Yes,Male,70-74,178,136.08,43.05
+122,Fair,Within the past year,No,Female,70-74,155,78.93,32.88
+123,Good,Within the past year,Yes,Female,60-64,160,90.72,35.43
+124,Good,Within the past year,Yes,Female,75-79,163,66.68,25.23
+125,Excellent,Within the past year,Yes,Female,80+,165,70.76,25.96
+126,Excellent,Within the past year,Yes,Female,60-64,173,61.23,20.53
+127,Excellent,Within the past year,Yes,Female,45-49,163,99.79,37.76
+128,Poor,Within the past year,No,Female,75-79,173,77.11,25.85
+129,Excellent,Within the past 2 years,Yes,Male,80+,173,70.31,23.57
+130,Good,Within the past 2 years,No,Female,65-69,163,95.71,36.22
+131,Fair,Within the past year,No,Female,80+,155,53.52,22.3
+132,Fair,Within the past year,No,Female,75-79,163,74.84,28.32
+133,Very Good,Within the past year,Yes,Female,80+,163,63.5,24.03
+134,Excellent,Within the past 2 years,No,Male,60-64,185,87.09,25.33
+135,Good,Within the past year,Yes,Female,65-69,175,62.6,20.38
+136,Good,Within the past year,Yes,Male,65-69,183,79.38,23.73
+137,Good,Within the past 2 years,No,Female,70-74,157,55.34,22.31
+138,Good,Within the past 2 years,Yes,Male,65-69,196,68.04,17.79
+139,Good,Within the past year,No,Female,80+,170,90.72,31.32
+140,Excellent,Within the past year,Yes,Male,75-79,191,83.01,22.87
+141,Fair,Within the past year,No,Male,70-74,188,95.25,26.96
+142,Excellent,Within the past year,Yes,Male,55-59,185,86.18,25.07
+143,Good,Within the past year,No,Female,80+,163,65.77,24.89
+144,Fair,Within the past year,No,Female,60-64,163,55.79,21.11
+145,Good,Within the past year,Yes,Female,70-74,152,72.57,31.25
+146,Excellent,Within the past year,Yes,Male,70-74,173,90.72,30.41
+147,Very Good,Within the past year,No,Female,75-79,165,61.23,22.46
+148,Fair,Within the past year,No,Female,80+,160,52.16,20.37
+149,Good,Within the past year,Yes,Female,60-64,163,49.9,18.88
+150,Good,Within the past year,Yes,Female,65-69,173,102.06,34.21
+151,Good,Within the past 5 years,Yes,Female,65-69,168,123.38,43.9
+152,Very Good,Within the past year,Yes,Female,80+,170,54.43,18.79
+153,Very Good,Within the past year,Yes,Male,80+,183,92.08,27.53
+154,Very Good,Within the past year,Yes,Female,70-74,165,63.5,23.3
+155,Poor,Within the past year,No,Male,60-64,178,98.88,31.28
+156,Fair,Within the past year,Yes,Female,75-79,157,73.03,29.45
+157,Good,Within the past year,No,Female,75-79,157,76.66,30.91
+158,Good,Within the past year,No,Male,60-64,183,113.4,33.91
+159,Poor,Within the past 2 years,Yes,Female,60-64,155,61.23,25.51
+160,Good,Within the past year,No,Female,65-69,165,81.65,29.95
+161,Good,Within the past 2 years,No,Female,80+,173,79.38,26.61
+162,Fair,Within the past year,Yes,Female,70-74,180,97.52,29.99
+163,Good,Within the past 2 years,No,Female,80+,157,61.23,24.69
+164,Fair,Within the past year,Yes,Female,60-64,168,71.67,25.5
+165,Very Good,5 or more years ago,Yes,Female,75-79,185,83.46,24.28
+166,Fair,Within the past year,Yes,Female,70-74,155,72.57,30.23
+167,Good,Within the past year,Yes,Female,80+,150,72.57,32.32
+168,Good,Within the past year,Yes,Male,75-79,188,108.86,30.81
+169,Very Good,Within the past year,No,Female,75-79,157,61.23,24.69
+170,Very Good,Within the past 2 years,Yes,Female,75-79,163,66.68,25.23
+171,Fair,Within the past year,Yes,Male,65-69,178,122.47,38.74
+172,Fair,Within the past year,Yes,Female,50-54,160,95.71,37.38
+173,Very Good,Within the past year,No,Male,75-79,180,81.65,25.1
+174,Excellent,Within the past 2 years,Yes,Female,75-79,165,52.16,19.14
+175,Very Good,Within the past year,Yes,Female,70-74,170,58.06,20.05
+176,Good,Within the past year,No,Female,65-69,157,65.77,26.52
+177,Very Good,Within the past year,Yes,Female,70-74,168,74.39,26.47
+178,Very Good,Within the past year,Yes,Female,80+,160,78.93,30.82
+179,Fair,Within the past year,No,Female,80+,168,77.11,27.44
+180,Poor,Within the past 2 years,No,Female,75-79,170,81.65,28.19
+181,Good,Within the past year,Yes,Male,80+,175,68.04,22.15
+182,Good,Within the past year,Yes,Male,75-79,206,86.18,20.36
+183,Very Good,Within the past year,Yes,Female,80+,163,72.12,27.29
+184,Very Good,Within the past 2 years,No,Female,80+,163,54.43,20.6
+185,Good,Within the past year,Yes,Male,55-59,183,90.72,27.12
+186,Very Good,Within the past year,No,Female,65-69,160,81.65,31.89
+187,Very Good,Within the past year,No,Female,75-79,157,96.16,38.77
+188,Poor,Within the past year,No,Male,65-69,170,96.16,33.2
+189,Fair,Within the past year,No,Male,70-74,173,77.11,25.85
+190,Very Good,Within the past year,No,Female,80+,155,63.5,26.45
+191,Fair,Within the past year,No,Male,60-64,175,67.13,21.86
+192,Excellent,Within the past year,Yes,Female,60-64,163,54.43,20.6
+193,Very Good,Within the past year,No,Female,80+,165,82.55,30.29
+194,Good,Within the past year,Yes,Female,60-64,163,53.52,20.25
+195,Very Good,Within the past year,Yes,Male,75-79,178,82.1,25.97
+196,Fair,Within the past year,Yes,Female,70-74,157,53.52,21.58
+197,Fair,Within the past year,Yes,Female,75-79,157,47.63,19.2
+198,Good,Within the past year,Yes,Male,65-69,168,81.65,29.05
+199,Fair,Within the past year,Yes,Female,80+,157,81.65,32.92
+200,Very Good,Within the past year,Yes,Female,30-34,155,99.34,41.38
+201,Excellent,Within the past year,Yes,Male,60-64,170,79.38,27.41
+202,Excellent,Within the past year,Yes,Male,80+,175,85.73,27.91
+203,Very Good,Within the past year,Yes,Female,55-59,178,70.31,22.24
+204,Very Good,Within the past year,Yes,Male,50-54,175,108.86,35.44
+205,Fair,Within the past year,Yes,Male,65-69,178,102.06,32.28
+206,Good,Within the past year,No,Female,80+,160,56.7,22.14
+207,Good,Within the past year,Yes,Male,60-64,185,108.41,31.53
+208,Good,Within the past year,Yes,Male,80+,191,99.79,27.5
+209,Good,Within the past year,No,Female,70-74,163,91.17,34.5
+210,Very Good,Within the past year,Yes,Male,60-64,178,122.47,38.74
+211,Very Good,Within the past year,Yes,Female,55-59,152,57.61,24.8
+212,Very Good,Within the past year,Yes,Female,60-64,157,69.4,27.98
+213,Fair,Within the past year,No,Female,70-74,157,77.11,31.09
+214,Good,Within the past year,Yes,Female,18-24,163,63.05,23.86
+215,Fair,Within the past year,Yes,Female,70-74,170,64.41,22.24
+216,Very Good,Within the past year,No,Female,70-74,155,68.04,28.34
+217,Good,Within the past year,No,Female,60-64,165,70.31,25.79
+218,Fair,Within the past year,No,Female,80+,152,72.57,31.25
+219,Fair,Within the past year,Yes,Female,45-49,165,83.91,30.79
+220,Good,Within the past year,No,Female,65-69,160,68.04,26.57
+221,Good,Within the past year,No,Female,75-79,157,79.38,32.01
+222,Fair,Within the past year,No,Female,65-69,178,81.65,25.83
+223,Excellent,Within the past year,Yes,Female,60-64,157,83.46,33.65
+224,Good,Within the past year,Yes,Female,70-74,157,58.06,23.41
+225,Good,Within the past year,Yes,Female,60-64,175,77.11,25.1
+226,Good,Within the past year,No,Male,50-54,178,99.79,31.57
+227,Good,Within the past year,No,Female,60-64,155,102.06,42.51
+228,Fair,Within the past year,No,Female,65-69,163,104.33,39.48
+229,Good,Within the past year,No,Female,75-79,165,63.5,23.3
+230,Very Good,Within the past year,No,Female,70-74,150,45.81,20.4
+231,Good,Within the past year,Yes,Female,75-79,160,95.25,37.2
+232,Fair,Within the past year,Yes,Female,50-54,165,94.35,34.61
+233,Good,Within the past year,No,Female,80+,168,44.45,15.82
+234,Good,Within the past year,Yes,Male,60-64,180,117.93,36.26
+235,Fair,Within the past year,No,Female,70-74,168,81.65,29.05
+236,Good,Within the past 2 years,Yes,Female,80+,152,61.23,26.37
+237,Good,Within the past year,Yes,Male,65-69,180,88.9,27.34
+238,Good,Within the past year,No,Female,70-74,183,86.18,25.77
+239,Good,Within the past year,No,Female,60-64,178,90.72,28.7
+240,Good,Within the past year,No,Male,70-74,188,104.33,29.53
+241,Fair,Within the past year,Yes,Female,60-64,160,107.5,41.98
+242,Good,Within the past year,Yes,Male,50-54,168,90.72,32.28
+243,Fair,Within the past year,No,Female,65-69,165,90.72,33.28
+244,Very Good,Within the past year,Yes,Female,75-79,152,77.11,33.2
+245,Very Good,Within the past year,No,Female,45-49,168,77.11,27.44
+246,Good,Within the past year,Yes,Female,75-79,165,64.41,23.63
+247,Poor,Within the past year,No,Female,55-59,160,127.01,49.6
+248,Very Good,Within the past year,No,Female,75-79,163,74.84,28.32
+249,Fair,Within the past year,No,Female,70-74,168,86.18,30.67
+250,Very Good,Within the past year,Yes,Female,65-69,168,74.39,26.47
+251,Good,Within the past year,Yes,Female,65-69,170,106.59,36.81
+252,Very Good,Within the past year,Yes,Male,75-79,165,60.78,22.3
+253,Good,Within the past year,Yes,Female,70-74,163,54.43,20.6
+254,Excellent,Within the past year,Yes,Female,80+,157,45.36,18.29
+255,Fair,Within the past year,No,Female,60-64,163,77.11,29.18
+256,Poor,Within the past year,Yes,Male,55-59,175,106.59,34.7
+257,Good,Within the past year,No,Female,80+,157,81.19,32.74
+258,Good,Within the past year,No,Female,80+,160,77.11,30.11
+259,Very Good,Within the past year,Yes,Female,65-69,170,77.11,26.63
+260,Good,Within the past year,No,Male,70-74,157,60.78,24.51
+261,Very Good,Within the past year,No,Female,75-79,163,74.84,28.32
+262,Good,Within the past 2 years,No,Female,60-64,160,107.95,42.16
+263,Fair,Within the past year,No,Female,80+,165,72.57,26.63
+264,Fair,Within the past year,No,Male,75-79,183,90.72,27.12
+265,Fair,Within the past year,No,Female,75-79,157,61.23,24.69
+266,Good,Within the past year,No,Male,80+,175,89.36,29.09
+267,Good,Within the past year,Yes,Male,70-74,175,92.99,30.27
+268,Very Good,Within the past year,No,Female,65-69,150,71.67,31.91
+269,Good,Within the past year,Yes,Female,80+,165,53.07,19.47
+270,Fair,Within the past year,No,Female,75-79,173,78.02,26.15
+271,Very Good,Within the past year,Yes,Male,70-74,168,79.83,28.41
+272,Excellent,Within the past year,Yes,Female,50-54,160,131.09,51.19
+273,Very Good,Within the past year,Yes,Female,40-44,170,77.11,26.63
+274,Fair,Within the past year,No,Male,70-74,185,136.08,39.58
+275,Very Good,Within the past year,No,Female,70-74,157,65.77,26.52
+276,Good,Within the past year,No,Female,70-74,170,87.09,30.07
+277,Fair,Within the past 2 years,Yes,Female,80+,165,76.66,28.12
+278,Good,Within the past year,Yes,Female,80+,175,74.84,24.37
+279,Good,Within the past year,Yes,Female,80+,163,57.61,21.8
+280,Good,Within the past 2 years,Yes,Male,70-74,188,97.98,27.73
+281,Good,Within the past year,No,Female,80+,168,84.37,30.02
+282,Very Good,Within the past year,Yes,Male,55-59,183,111.13,33.23
+283,Excellent,Within the past year,Yes,Female,45-49,170,50.8,17.54
+284,Very Good,Within the past year,No,Female,70-74,155,95.25,39.68
+285,Very Good,Within the past year,Yes,Female,75-79,163,57.15,21.63
+286,Very Good,Within the past year,Yes,Male,55-59,185,95.25,27.71
+287,Excellent,Within the past year,Yes,Female,55-59,160,79.38,31
+288,Very Good,Within the past year,Yes,Female,70-74,165,107.95,39.6
+289,Good,Within the past year,Yes,Female,70-74,170,64.86,22.4
+290,Poor,Within the past year,No,Female,75-79,163,79.38,30.04
+291,Good,Within the past year,No,Female,80+,152,56.7,24.41
+292,Good,Within the past year,No,Male,70-74,170,120.2,41.5
+293,Good,Within the past year,Yes,Female,75-79,163,80.29,30.38
+294,Good,5 or more years ago,No,Male,75-79,180,108.86,33.47
+295,Good,Within the past year,Yes,Female,70-74,170,72.57,25.06
+296,Very Good,Within the past year,Yes,Male,80+,178,92.99,29.41
+297,Very Good,Within the past year,Yes,Female,70-74,165,96.16,35.28
+298,Good,Within the past year,Yes,Female,70-74,165,76.2,27.96
+299,Very Good,Within the past year,No,Female,55-59,163,114.31,43.26
+300,Good,Within the past year,Yes,Male,80+,173,65.32,21.89
+301,Very Good,Within the past year,Yes,Female,45-49,165,72.57,26.63
+302,Very Good,Within the past year,No,Female,65-69,165,56.7,20.8
+303,Fair,Within the past 2 years,Yes,Female,80+,152,47.63,20.51
+304,Good,Within the past 2 years,Yes,Male,55-59,173,104.33,34.97
+305,Good,Within the past year,No,Female,55-59,168,70.31,25.02
+306,Good,5 or more years ago,No,Female,35-39,170,97.07,33.52
+307,Good,Within the past year,Yes,Male,65-69,175,95.25,31.01
+308,Excellent,Within the past year,No,Female,70-74,160,68.04,26.57
+309,Good,Within the past year,Yes,Female,70-74,165,67.59,24.79
+310,Good,Within the past year,Yes,Female,80+,168,53.07,18.88
+311,Very Good,Within the past year,Yes,Female,75-79,165,122.47,44.93
+312,Poor,Within the past year,No,Female,70-74,160,56.7,22.14
+313,Fair,Within the past year,Yes,Female,75-79,160,58.97,23.03
+314,Good,Within the past year,Yes,Male,80+,173,75.3,25.24
+315,Good,Within the past 2 years,No,Female,80+,165,105.69,38.77
+316,Good,Within the past year,No,Female,50-54,160,110.68,43.22
+317,Fair,Within the past year,No,Male,80+,185,86.64,25.2
+318,Fair,Within the past year,Yes,Female,70-74,170,84.82,29.29
+319,Poor,Within the past year,Yes,Male,70-74,193,98.88,26.54
+320,Fair,Within the past year,No,Male,80+,175,72.57,23.63
+321,Fair,Within the past year,No,Male,80+,170,111.13,38.37
+322,Good,Within the past year,No,Female,50-54,170,70.31,24.28
+323,Excellent,Within the past year,Yes,Female,55-59,163,49.9,18.88
+324,Very Good,Within the past year,Yes,Female,18-24,168,74.84,26.63
+325,Poor,Within the past year,No,Male,80+,185,91.17,26.52
+326,Good,Within the past year,Yes,Female,80+,168,51.26,18.24
+327,Good,Within the past year,Yes,Female,70-74,152,97.07,41.79
+328,Very Good,Within the past year,Yes,Female,80+,165,61.69,22.63
+329,Very Good,Within the past year,No,Female,80+,160,61.23,23.91
+330,Poor,Within the past year,Yes,Female,55-59,160,89.36,34.9
+331,Very Good,Within the past year,No,Female,65-69,157,54.43,21.95
+332,Fair,Within the past year,Yes,Female,60-64,170,107.05,36.96
+333,Very Good,Within the past 2 years,Yes,Female,55-59,180,65.77,20.22
+334,Good,Within the past 5 years,Yes,Male,80+,180,72.57,22.32
+335,Good,Within the past year,Yes,Female,70-74,160,77.11,30.11
+336,Very Good,Within the past year,No,Female,80+,155,47.63,19.84
+337,Good,Within the past year,No,Female,60-64,163,70.31,26.61
+338,Good,Within the past year,No,Female,70-74,163,76.66,29.01
+339,Very Good,Within the past year,Yes,Female,80+,155,42.64,17.76
+340,Excellent,Within the past 2 years,Yes,Female,45-49,160,61.23,23.91
+341,Fair,Within the past 2 years,Yes,Male,65-69,183,83.91,25.09
+342,Very Good,Within the past year,Yes,Male,80+,175,79.38,25.84
+343,Very Good,Within the past year,No,Female,75-79,168,81.65,29.05
+344,Very Good,Within the past 2 years,No,Female,80+,163,68.04,25.75
+345,Very Good,Within the past year,No,Female,65-69,163,72.57,27.46
+346,Good,Within the past year,Yes,Male,70-74,168,79.38,28.25
+347,Good,Within the past year,Yes,Male,70-74,178,92.99,29.41
+348,Good,Within the past year,Yes,Male,80+,178,92.99,29.41
+349,Very Good,Within the past year,Yes,Female,60-64,168,68.04,24.21
+350,Very Good,Within the past year,Yes,Female,80+,155,72.57,30.23
+351,Very Good,Within the past year,Yes,Male,80+,168,77.11,27.44
+352,Good,Within the past year,No,Male,65-69,188,97.98,27.73
+353,Fair,Within the past year,Yes,Female,45-49,160,113.4,44.29
+354,Fair,Within the past year,No,Male,65-69,198,70.31,17.91
+355,Very Good,Within the past year,Yes,Female,80+,152,40.82,17.58
+356,Poor,Within the past year,No,Male,60-64,173,104.33,34.97
+357,Fair,Within the past 2 years,No,Male,70-74,178,90.72,28.7
+358,Good,Within the past year,Yes,Female,70-74,168,81.65,29.05
+359,Very Good,Within the past year,Yes,Female,60-64,173,101.6,34.06
+360,Very Good,Within the past year,Yes,Female,65-69,175,77.11,25.1
+361,Fair,Within the past year,Yes,Male,65-69,173,97.52,32.69
+362,Fair,Within the past year,No,Female,80+,170,67.59,23.34
+363,Very Good,Within the past year,Yes,Male,70-74,170,79.38,27.41
+364,Fair,Within the past year,No,Female,70-74,168,90.26,32.12
+365,Good,Within the past year,Yes,Female,60-64,157,72.57,29.26
+366,Good,Within the past year,Yes,Male,65-69,183,74.84,22.38
+367,Excellent,Within the past year,Yes,Male,75-79,170,83.01,28.66
+368,Fair,Within the past year,No,Male,65-69,160,73.48,28.7
+369,Very Good,Within the past year,Yes,Male,65-69,183,83.91,25.09
+370,Good,Within the past year,Yes,Male,75-79,173,113.4,38.01
+371,Excellent,Within the past 5 years,Yes,Female,65-69,163,58.97,22.31
+372,Good,Within the past year,Yes,Female,70-74,175,65.32,21.26
+373,Good,Within the past year,Yes,Male,75-79,188,131.54,37.23
+374,Good,Within the past year,No,Female,70-74,168,98.43,35.02
+375,Very Good,Within the past year,Yes,Female,60-64,165,99.79,36.61
+376,Excellent,Within the past 2 years,No,Female,65-69,163,76.2,28.84
+377,Good,Within the past year,Yes,Female,70-74,165,78.47,28.79
+378,Good,Within the past year,No,Female,25-29,170,52.16,18.01
+379,Fair,Within the past 2 years,No,Female,60-64,160,56.7,22.14
+380,Fair,Within the past year,No,Male,60-64,180,95.25,29.29
+381,Fair,Within the past year,Yes,Male,30-34,175,97.52,31.75
+382,Good,Within the past year,Yes,Male,75-79,173,86.64,29.04
+383,Good,Within the past year,No,Male,55-59,175,61.23,19.94
+384,Good,Within the past year,Yes,Male,65-69,185,117.93,34.3
+385,Fair,Within the past year,Yes,Female,80+,152,59.87,25.78
+386,Excellent,Within the past year,No,Female,70-74,163,77.11,29.18
+387,Poor,Within the past year,No,Female,70-74,160,78.93,30.82
+388,Good,Within the past year,Yes,Male,80+,168,68.95,24.53
+389,Fair,Within the past year,Yes,Female,70-74,170,112.49,38.84
+390,Poor,Within the past year,No,Female,80+,175,82.55,26.88
+391,Good,Within the past year,No,Male,75-79,180,79.38,24.41
+392,Good,Within the past year,Yes,Male,75-79,180,83.46,25.66
+393,Fair,Within the past year,No,Female,75-79,168,81.65,29.05
+394,Good,Within the past year,No,Female,75-79,168,104.33,37.12
+395,Excellent,Within the past year,Yes,Female,80+,163,70.76,26.78
+396,Good,Within the past year,Yes,Female,65-69,163,95.25,36.05
+397,Fair,Within the past year,No,Female,65-69,165,69.85,25.63
+398,Poor,Within the past year,No,Female,80+,175,68.04,22.15
+399,Very Good,Within the past year,No,Female,70-74,173,63.5,21.29
+400,Good,Within the past year,Yes,Female,70-74,163,86.18,32.61
+401,Good,Within the past year,Yes,Male,80+,183,90.72,27.12
+402,Fair,Within the past year,Yes,Female,65-69,160,60.33,23.56
+403,Excellent,Within the past year,Yes,Male,80+,170,68.04,23.49
+404,Poor,Within the past year,No,Female,75-79,160,81.19,31.71
+405,Very Good,Within the past year,Yes,Female,30-34,168,65.77,23.4
+406,Poor,Within the past year,Yes,Female,80+,163,74.84,28.32
+407,Very Good,Within the past year,Yes,Female,70-74,160,68.04,26.57
+408,Good,Within the past year,No,Female,70-74,165,61.23,22.46
+409,Fair,Within the past year,Yes,Male,70-74,170,90.72,31.32
+410,Excellent,Within the past year,Yes,Female,60-64,157,65.32,26.34
+411,Good,Within the past 2 years,No,Female,65-69,157,63.5,25.61
+412,Poor,Within the past year,No,Female,75-79,163,52.16,19.74
+413,Very Good,Within the past year,Yes,Male,60-64,180,86.18,26.5
+414,Very Good,Within the past year,Yes,Female,70-74,163,56.7,21.46
+415,Poor,Within the past year,No,Male,60-64,183,117.93,35.26
+416,Very Good,Within the past year,No,Female,65-69,155,56.7,23.62
+417,Good,Within the past year,Yes,Male,80+,160,72.57,28.34
+418,Very Good,Within the past year,Yes,Female,70-74,168,56.7,20.18
+419,Good,Within the past year,Yes,Female,65-69,170,78.02,26.94
+420,Excellent,Within the past year,Yes,Male,55-59,188,94.8,26.83
+421,Excellent,5 or more years ago,No,Female,75-79,163,68.04,25.75
+422,Fair,Within the past year,No,Male,65-69,183,107.95,32.28
+423,Fair,Within the past year,No,Female,80+,160,54.43,21.26
+424,Very Good,Within the past year,Yes,Female,70-74,165,67.13,24.63
+425,Fair,Within the past year,No,Female,70-74,157,74.84,30.18
+426,Very Good,Within the past year,No,Female,70-74,160,71.67,27.99
+427,Good,Within the past year,Yes,Female,55-59,152,83.91,36.13
+428,Very Good,Within the past 2 years,Yes,Male,70-74,175,76.2,24.81
+429,Very Good,Within the past year,Yes,Male,65-69,178,74.84,23.67
+430,Good,Within the past year,Yes,Female,60-64,155,90.72,37.79
+431,Excellent,Within the past 2 years,Yes,Female,80+,165,48.53,17.81
+432,Fair,Within the past year,Yes,Female,80+,185,110.68,32.19
+433,Good,Within the past year,No,Female,55-59,170,88.45,30.54
+434,Fair,Within the past year,Yes,Female,65-69,170,86.18,29.76
+435,Good,Within the past year,Yes,Male,70-74,178,88.45,27.98
+436,Fair,Within the past year,Yes,Female,60-64,160,70.31,27.46
+437,Fair,Within the past year,Yes,Female,65-69,163,65.77,24.89
+438,Very Good,Within the past year,Yes,Female,70-74,152,74.84,32.22
+439,Excellent,Within the past year,Yes,Female,65-69,163,84.37,31.93
+440,Good,Within the past year,No,Male,80+,191,72.12,19.87
+441,Very Good,Within the past year,Yes,Male,65-69,185,81.65,23.75
+442,Fair,Within the past year,No,Male,70-74,178,62.6,19.8
+443,Poor,Within the past year,Yes,Female,80+,155,62.6,26.07
+444,Fair,Within the past year,No,Female,80+,170,49.9,17.23
+445,Fair,Within the past 2 years,No,Female,55-59,160,61.23,23.91
+446,Very Good,Never,No,Female,65-69,160,72.57,28.34
+447,Good,Within the past year,Yes,Female,65-69,157,84.37,34.02
+448,Very Good,Within the past year,No,Female,60-64,155,77.11,32.12
+449,Fair,Within the past year,Yes,Female,65-69,160,69.85,27.28
+450,Good,Within the past year,No,Female,75-79,160,65.77,25.69
+451,Very Good,Within the past year,Yes,Male,60-64,173,95.25,31.93
+452,Very Good,Within the past year,Yes,Female,55-59,160,69.85,27.28
+453,Very Good,Within the past 5 years,Yes,Female,75-79,173,78.02,26.15
+454,Good,Within the past year,Yes,Female,60-64,165,63.5,23.3
+455,Fair,Within the past year,Yes,Female,65-69,140,99.34,50.9
+456,Fair,Within the past year,No,Male,70-74,183,95.25,28.48
+457,Fair,Within the past year,Yes,Male,80+,183,90.72,27.12
+458,Fair,Within the past year,Yes,Female,70-74,175,74.84,24.37
+459,Very Good,Within the past 2 years,Yes,Female,60-64,165,122.47,44.93
+460,Fair,Within the past year,Yes,Male,60-64,180,97.52,29.99
+461,Very Good,Within the past year,Yes,Male,75-79,183,87.09,26.04
+462,Good,Within the past year,Yes,Male,65-69,183,61.23,18.31
+463,Poor,Within the past year,Yes,Female,65-69,163,81.65,30.9
+464,Very Good,Within the past year,No,Female,70-74,157,68.04,27.44
+465,Very Good,Within the past 2 years,Yes,Female,55-59,160,77.11,30.11
+466,Fair,Within the past year,No,Female,65-69,170,91.63,31.64
+467,Good,Within the past year,Yes,Male,70-74,178,96.62,30.56
+468,Poor,Within the past year,No,Male,65-69,178,105.69,33.43
+469,Fair,Within the past year,No,Female,45-49,173,83.46,27.98
+470,Excellent,Within the past year,Yes,Female,65-69,175,77.11,25.1
+471,Excellent,Within the past year,No,Female,70-74,160,78.93,30.82
+472,Poor,Within the past year,No,Female,80+,157,108.86,43.9
+473,Fair,Within the past year,Yes,Female,70-74,165,52.16,19.14
+474,Good,Within the past year,Yes,Male,60-64,185,117.48,34.17
+475,Very Good,5 or more years ago,No,Female,60-64,157,70.31,28.35
+476,Poor,Within the past year,No,Female,80+,165,102.51,37.61
+477,Very Good,Within the past year,Yes,Male,70-74,188,81.65,23.11
+478,Fair,Within the past year,Yes,Female,80+,160,46.27,18.07
+479,Fair,Within the past year,Yes,Male,55-59,175,67.13,21.86
+480,Excellent,Within the past year,Yes,Female,60-64,157,75.3,30.36
+481,Fair,Within the past year,Yes,Female,60-64,163,102.06,38.62
+482,Very Good,Within the past year,Yes,Female,70-74,157,56.7,22.86
+483,Poor,Within the past year,No,Female,60-64,160,109.77,42.87
+484,Fair,Within the past year,No,Female,80+,168,84.82,30.18
+485,Fair,Within the past 2 years,Yes,Male,70-74,175,97.52,31.75
+486,Good,Within the past year,Yes,Male,65-69,173,81.65,27.37
+487,Poor,Within the past year,Yes,Female,80+,170,79.38,27.41
+488,Very Good,Within the past year,Yes,Female,75-79,157,58.51,23.59
+489,Fair,Within the past year,No,Female,70-74,168,113.4,40.35
+490,Excellent,Within the past year,No,Female,70-74,165,104.33,38.27
+491,Very Good,Within the past year,No,Female,75-79,155,57.15,23.81
+492,Poor,Within the past year,Yes,Female,75-79,150,72.57,32.32
+493,Fair,Within the past year,Yes,Male,70-74,183,68.49,20.48
+494,Very Good,Within the past year,No,Male,70-74,173,133.81,44.85
+495,Excellent,Within the past year,Yes,Female,80+,157,58.97,23.78
+496,Fair,Within the past year,No,Female,70-74,165,99.79,36.61
+497,Good,Within the past year,No,Female,75-79,163,77.11,29.18
+498,Very Good,5 or more years ago,No,Female,55-59,173,83.91,28.13
+499,Good,Within the past year,No,Female,65-69,165,52.16,19.14
+500,Good,Within the past year,Yes,Male,75-79,178,95.25,30.13
